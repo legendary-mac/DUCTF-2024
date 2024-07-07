@@ -13,3 +13,5 @@ I tracked almost every rivers in Australia and looked for some bridges. I think 
 Turns out it was a bridge in Singapore... I assumed that the bridge was in Australia since other OSINT challenges were in Australia and it is the biggest CTF competition in Southern Hemisphere. I am not rainbolt after all. You win a_metre.
 
 Anyways the building was 4 Points building in Singapore. (I repeatedly tried to smash the bridge name into the flag box)
+
+*The image was too big to be attached... I am new to this GitHub repositery stuff*

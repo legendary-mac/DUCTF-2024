@@ -3,7 +3,7 @@
 So we are given a website with a parrot that mimics everything you say...
 and luckily we are given the python script behind the website.
 
-` from flask import Flask, render_template, request, render_template_string
+```python from flask import Flask, render_template, request, render_template_string
 
 app = Flask(__name__)
 
@@ -25,7 +25,7 @@ def vulnerable():
 
 if __name__ == '__main__':
     app.run(debug=True, port=80)
-`
+```
 The website directly renders the user_input that we sent without checking or 
 validating our inputs, making it vulnerable to SSTI attack (Server side template injection).
 It is a method to execute commands directly with the template engine.

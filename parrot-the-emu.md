@@ -3,8 +3,7 @@
 So we are given a website with a parrot that mimics everything you say...
 and luckily we are given the python script behind the website.
 
-` 
-from flask import Flask, render_template, request, render_template_string
+` from flask import Flask, render_template, request, render_template_string
 
 app = Flask(__name__)
 

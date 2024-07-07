@@ -6,3 +6,7 @@ It was such a nice competition to participate in the first place. As a rather in
 I can easily say that I learned and improved a lot from this competitions.
 
 Here is how i solved the beginner and easier challenges.
+
+Our team, The Team Onigiri got 442nd place overall with 1208 points. In Secondary section, 10th. (We two are both 10th students).
+
+I am happy with how I participated and will definitely improve my rank next year!!

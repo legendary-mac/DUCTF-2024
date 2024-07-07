@@ -10,3 +10,5 @@ Here is how i solved the beginner and easier challenges.
 Our team, The Team Onigiri got 442nd place overall with 1208 points. In Secondary section, 10th. (We two are both 10th students).
 
 I am happy with how I participated and will definitely improve my rank next year!!
+
+Personally I myself solved 3 beginner problems and 5 osint problems. (osint was that fun)

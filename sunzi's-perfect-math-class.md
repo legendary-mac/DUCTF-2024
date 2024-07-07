@@ -1,10 +1,12 @@
-#Sun Zi's Perfect Math Class
+# Sun Zi's Perfect Math Class
 
 So we are given a website that we can presume that we need to solve the problems inside to get the flag. ~~you can also make it a web exploitation challenge if you are good enough btw.~~
 
 when we follow the link it says something like this.
 
-```Sun Zi's Perfect Math Class
+```
+Sun Zi's Perfect Math Class
+
 In 200 BC, the Chinese general Han Xin marched into battle with 1500 soldiers. Afterwards, he could estimate that between 1000 and 1100 of them survived the battle, but needed to know exactly how many men he had.
 
 At that moment, Han Xin's steward came up to his side and said
@@ -13,7 +15,8 @@ When the soldiers stand 3 in a row, there are 2 soldiers left over. When they li
 
 Upon hearing this, Han Xin knew immediately how many soldiers he had remaining.
 
-How many soldiers did Han Xin have remaining?```
+How many soldiers did Han Xin have remaining?
+```
 
 I instantly recognized that it was a Chinese Remainder Theorem test given the Sun Z~~~u~~~i's name origin and remainder problem.
 
@@ -41,7 +44,7 @@ n_1 = 14789627007255136019575345436328229942606248517474575935121184648992891024
 n_2 = 95979365485314068430194308015982074476106529222534317931594712046922760584774363858267995698339417335986543347292707495833182921439398983540425004105990583813113065124836795470760324876649225576921655233346630422669551713602423987793822459296761403456611062240111812805323779302474406733327110287422659815403
 
 n_3 = 95649308318281674792416471616635514342255502211688462925255401503618542159533496090638947784818456347896833168508179425853277740290242297445486511810651365722908240687732315319340403048931123530435501371881740859335793804194315675972192649001074378934213623075830325229416830786633930007188095897620439987817'
-~~~
+```
 
 where c values are divisions with n values being remainder, and the answer is in cubic number (e = 3).
 
